@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -fPIC -shared -Wl,-soname,libhellow1.so -o ../lib/libhellow1.so CMakeFiles/hellow1.dir/hellow1_autogen/mocs_compilation.o CMakeFiles/hellow1.dir/src/test_wid/wid_preview_wid.o  -Wl,-rpath,/opt/qt5.15.13/lib /opt/qt5.15.13/lib/libQt5Widgets.so.5.15.13 /opt/qt5.15.13/lib/libQt5Gui.so.5.15.13 /opt/qt5.15.13/lib/libQt5Core.so.5.15.13 

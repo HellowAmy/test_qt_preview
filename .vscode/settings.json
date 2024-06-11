@@ -71,6 +71,8 @@
         "set": "cpp",
         "fstream": "cpp",
         "qlistwidget": "cpp",
-        "qfileinfo": "cpp"
+        "qfileinfo": "cpp",
+        "qlineedit": "cpp",
+        "qradiobutton": "cpp"
     }
 }

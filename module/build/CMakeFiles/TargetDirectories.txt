@@ -1,6 +1,0 @@
-/home/cong/open/test_qt/test_qt_preview/module/build/CMakeFiles/hellow1.dir
-/home/cong/open/test_qt/test_qt_preview/module/build/CMakeFiles/hellow2.dir
-/home/cong/open/test_qt/test_qt_preview/module/build/CMakeFiles/edit_cache.dir
-/home/cong/open/test_qt/test_qt_preview/module/build/CMakeFiles/rebuild_cache.dir
-/home/cong/open/test_qt/test_qt_preview/module/build/CMakeFiles/hellow1_autogen.dir
-/home/cong/open/test_qt/test_qt_preview/module/build/CMakeFiles/hellow2_autogen.dir

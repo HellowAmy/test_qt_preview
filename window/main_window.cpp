@@ -67,12 +67,12 @@ main_window::main_window(QWidget *parent) : QWidget(parent)
             item_tab_lib *item = init_item_tab();
             win_add_tab_dig dig;
 
-            item->_str_build_path = "/home/cong/open/test_qt/test_qt_preview/module/bash";
+            item->_str_build_path = "/home/cong/open/test_qt/test_qt_preview/test/bash/";
             item->_str_build_cmd = "sh makeso.sh";
-            item->_str_so_path = "/home/cong/open/test_qt/test_qt_preview/module/lib/libhellow1.so";
+            item->_str_so_path = "/home/cong/open/test_qt/test_qt_preview/test/lib/libtest_lib_1.so";
             item->_str_so_export = "get_wid";
             item->_str_tab_title = "windows_1";
-            item->_vec_watch_file.push_back("/home/cong/open/test_qt/test_qt_preview/module/src/test_wid/wid_preview_wid.cpp");
+            item->_vec_watch_file.push_back("/home/cong/open/test_qt/test_qt_preview/test/src/wid_login/wid_login.cpp");
 
 
             dig.load_item_data(item);

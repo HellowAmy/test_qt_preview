@@ -40,8 +40,8 @@ set(CMAKE_PREFIX_PATH $ENV{Qt5_DIR})
 
 
 
-set(PRE_NAME_1 test_lib_1)
-set(PRE_NAME_2 test_lib_2)
+set(PRE_NAME_1 test_lib_login)
+set(PRE_NAME_2 test_lib_main)
 
 set(CMAKE_LIBRARY_OUTPUT_DIRECTORY ../lib)
 

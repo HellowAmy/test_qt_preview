@@ -69,7 +69,7 @@ main_window::main_window(QWidget *parent) : QWidget(parent)
 
             item->_str_build_path = "/home/cong/open/test_qt/test_qt_preview/test/bash/";
             item->_str_build_cmd = "sh makeso.sh";
-            item->_str_so_path = "/home/cong/open/test_qt/test_qt_preview/test/lib/libtest_lib_1.so";
+            item->_str_so_path = "/home/cong/open/test_qt/test_qt_preview/test/lib/libtest_lib_login.so";
             item->_str_so_export = "get_wid";
             item->_str_tab_title = "windows_1";
             item->_vec_watch_file.push_back("/home/cong/open/test_qt/test_qt_preview/test/src/wid_login/wid_login.cpp");

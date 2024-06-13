@@ -4,7 +4,7 @@
 wid_main::wid_main(QWidget *parent) : QWidget(parent)
 {
     {
-        QString qss = "/home/cong/open/test_qt/test_qt_preview/test/qss/QPushButton.qss";
+        QString qss = "/home/cong/open/test_qt/test_qt_preview/test/qss/StyleDefault.qss";
         QFile file(qss);
         if(file.open(QIODevice::ReadOnly))
         {
